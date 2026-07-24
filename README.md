@@ -83,7 +83,7 @@
 ---
 
 ## 🎮 游戏预览
-<img width="284" height="130" alt="Untitled - July 24, 2026 at 19 16 46 (4)" src="https://github.com/user-attachments/assets/66bee6dc-715c-4bea-9a80-d34a010ea82e" />
+<img width="640" height="320" alt="Untitled - July 24, 2026 at 19 16 46 (4)" src="https://github.com/user-attachments/assets/66bee6dc-715c-4bea-9a80-d34a010ea82e" />
 
 
 
