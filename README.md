@@ -82,8 +82,13 @@
 
 ---
 
-## 🎮 游戏预览
-<img width="640" height="320" alt="Untitled - July 24, 2026 at 19 16 46 (4)" src="https://github.com/user-attachments/assets/66bee6dc-715c-4bea-9a80-d34a010ea82e" />
+## 🎮 游戏预览（以下画面可能引起不适）
+<img width="1314" height="648" alt="截屏2026-07-24 19 33 46" src="https://github.com/user-attachments/assets/392b736b-84f2-4668-9daf-a8b4d4eb3255" />
+<img width="1314" height="655" alt="截屏2026-07-24 19 30 19" src="https://github.com/user-attachments/assets/21b5322e-4afb-40ce-84e0-4c864dc63f8f" />
+<img width="1314" height="648" alt="截屏2026-07-24 19 30 01" src="https://github.com/user-attachments/assets/883452b1-5f75-44d6-98af-191a614b8249" />
+<img width="1314" height="634" alt="截屏2026-07-24 19 29 45" src="https://github.com/user-attachments/assets/42aaf25a-3390-444a-b2fd-6e9e6644732c" />
+
+
 
 
 
