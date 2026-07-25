@@ -88,5 +88,14 @@
 <img width="1316" height="634" alt="截屏2026-07-24 19 29 45" src="https://github.com/user-attachments/assets/71b14003-7003-4a63-861e-33339a23a97d" />
 <img width="1314" height="648" alt="截屏2026-07-24 19 33 46" src="https://github.com/user-attachments/assets/392b736b-84f2-4668-9daf-a8b4d4eb3255" />
 
+---
+
+## 游戏完整展示视频
+
+### 视频链接
+   * Youtube：https://youtu.be/c2N1DYDY9jY
+     
+   * 哔哩哔哩：https://t.bilibili.com/1229007576153194537?share_source=pc_native
+
 
 
