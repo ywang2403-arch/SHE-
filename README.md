@@ -1,5 +1,5 @@
 # SHE（她）
-> Unity｜3D Horror Game
+> Unity｜3D 心理恐怖游戏
 
 ---
 
