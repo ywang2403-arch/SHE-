@@ -1,6 +1,9 @@
 # SHE（她）
 > Unity｜3D 第三人称心理恐怖游戏
 
+> 游戏展示视频：https://t.bilibili.com/1229007576153194537?share_source=pc_native
+
+
 ---
 
 ## 📖 项目简介 （Project Overview）
@@ -90,12 +93,6 @@
 
 ---
 
-## 游戏完整展示视频
-
-### 视频链接
-   * Youtube：https://youtu.be/c2N1DYDY9jY
-     
-   * 哔哩哔哩：https://t.bilibili.com/1229007576153194537?share_source=pc_native
 
 
 
